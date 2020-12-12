@@ -10,10 +10,10 @@ Try to detect and extract relevant feature in order to build a prediction model.
 
 Strategy:
 
-Importing Libraries
+➊ Importing Libraries
 
-Data Pre-Processing
+➋ Data Pre-Processing
 
-Data Analysis
+➌ Data Analysis
 
-Build A Machine Learning Model
+➍ Build A Machine Learning Model
